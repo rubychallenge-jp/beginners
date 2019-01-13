@@ -15,7 +15,7 @@ Rails Girlsの[インストール](http://railsgirls.jp/install])や、[こち�
 
 # チャレンジの仕方
 
-各演習問題のフォルダの中の`index.md` をブラウザで表示します。
+各演習問題のフォルダの中の`README.md` をブラウザで表示します。
 
 演習には、今回学ぶことと、難易度が記載されているので、参考にしてください。
 
@@ -28,7 +28,7 @@ Rails Girlsの[インストール](http://railsgirls.jp/install])や、[こち�
 
 - このリポジトリをfork & cloneする。
 - templateフォルダをコピーし、exerciseXX(XXは連番でお願いします)
-- index.mdを編集する。
+- README.mdを編集する。
   - 演習XX を修正する。
   - 今回学ぶもの、難易度を設定する。
   - 演習問題を記述する。
