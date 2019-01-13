@@ -13,7 +13,7 @@ Rubyプログラムの起動と入出力 | 💪
 
 ## Rubyプログラムを実行する
 
-- [こちらのリンク](https://raw.githubusercontent.com/rubychallenge-jp/beginners/add_exercise01/exercise01/exercise01_1.rb)を右クリックして、ファイルをダウンロードしてください。
+- [こちらのリンク](https://raw.githubusercontent.com/rubychallenge-jp/beginners/master/exercise01/exercise01_1.rb)を右クリックして、ファイルをダウンロードしてください。
 - ダウンロードしたファイルを、作業するディレクトリへコピーしてください。
 - exercise01_1.rbを実行してください。
 - 何が出力されましたか？
@@ -30,7 +30,7 @@ TerminalからRubyプログラムを実行する時に、引数を与えるこ�
 この引数のことを、「起動引数」「コマンドライン引数」と言います。
 ```
 
-- [こちらのリンク](https://raw.githubusercontent.com/rubychallenge-jp/beginners/add_exercise01/exercise01/exercise01_2.rb)を右クリックして、ファイルをダウンロードしてください。
+- [こちらのリンク](https://raw.githubusercontent.com/rubychallenge-jp/beginners/master/exercise01/exercise01_2.rb)を右クリックして、ファイルをダウンロードしてください。
 - ダウンロードしたexercse01_2.rb をテキストエディタで開いてください。
 - 以下のコードの `ここに起動引数を参照する変数を書いてください` の部分を書き換え、起動引数を出力するようにしてみましょう。
 ```
@@ -45,7 +45,7 @@ p ここに起動引数を参照する変数を書いてください
 
 ## Rubyプログラム実行中にキーボードからの入力を受け付けて、出力する
 
-- [こちらのリンク](https://raw.githubusercontent.com/rubychallenge-jp/beginners/add_exercise01/exercise01/exercise01_3.rb)を右クリックして、ファイルをダウンロードしてください。
+- [こちらのリンク](https://raw.githubusercontent.com/rubychallenge-jp/beginners/master/exercise01/exercise01_3.rb)を右クリックして、ファイルをダウンロードしてください。
 - exercse01_3.rb をテキストエディタで開いてください。
 - 以下のコメントの下に入力を受け付けて、入力された値を出力するようにしてみましょう。
 ```
